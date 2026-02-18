@@ -30,7 +30,7 @@ library(dplyr)
 library(KEGG.db)
 
 # Load custom functions
-source("all_custom_functions_code_git.R")
+source("all_custom_functions.R")
 
 # There are 8 independent analyses in the script. You can run each analysis separately.
 
