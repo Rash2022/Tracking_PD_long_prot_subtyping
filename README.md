@@ -3,7 +3,7 @@ The primary goal of this study was to define proteomic subtypes to understand th
 of Parkinson’s pathophysiology with the aim of understanding whether there exists an underlying biological signature of mechanism in distinct disease phenotypes. By running unsupervised clustering approaches we have detected common modules of expression. Uniquely we have used longitudinal data to compare these groupings during disease progression. Despite the
 complexities of disease progression we describe robust proteomic modules with insights about mechanism and subtypes of pathology.
 
-**Authors**: Rashmi Maurya, Buddhiprabha Erabadda, Sacha E Gandhi, Hanjun Zhao, Natacha Loison, Raquel Real, Huw Morris, Alejo Nevado-Holgado, Donald G Grosset, and Laura M Winchester
+**Authors**: Rashmi Maurya, Buddhiprabha Erabadda, Sacha E Gandhi, Hanjun Zhao, Natacha Loison, Raquel Real, Huw Morris, Alejo Nevado-Holgado, Donald G Grosset, and Laura M Winchester  
 **Affiliations**: University of Oxford, University of Glasgow, University College London, The Fourth Hospital of Hebei Medical University China
 
 ## Dataset
